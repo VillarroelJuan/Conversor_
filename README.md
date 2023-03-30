@@ -1,7 +1,5 @@
 <h1> Conversor de Moneda y Temperatura </h1>
 
-  ![Logo conversor, Money Finances logo](https://user-images.githubusercontent.com/129340907/228918817-2428b0cf-9a51-42e8-8fd3-f445ddd641d8.png)
-  
   <p align="left">
    <img src="https://img.shields.io/badge/STATUS-PROYECTO%20FINALIZADO-green">
    </p>
@@ -22,11 +20,11 @@ Se consta que el proyecto fue realizado con el lector Eclipse.
 - `Funcionalidad 3`: El proyecto tambien incluye la adicion de conversion de temperaturas! Aborda gados Celsius, Farenheit y Kelvin.
 
 
-<h3> Tecnologias Utilizadas </h3>
+## 👨‍💻: Tecnologias Utilizadas 
 
 ![image](https://user-images.githubusercontent.com/129340907/228921636-9bb2bace-8e54-4ee0-a05d-c3e8f071c76c.png)
 
-<h4> Prueba del programa </h4>
+## 🧪: Prueba del programa 
 
 ![Menu-2023-03-30-15-30-34](https://user-images.githubusercontent.com/129340907/228931542-393a4ddc-0f43-4736-b9e6-b649e88f465f.gif)
 
@@ -34,12 +32,17 @@ Se consta que el proyecto fue realizado con el lector Eclipse.
 
 ![Menu-2023-03-30-15-34-54](https://user-images.githubusercontent.com/129340907/228932165-4a4a8b12-d9eb-40e1-971e-adbe15faa71c.gif)
 
+![Mensaje-2023-03-30-15-40-33](https://user-images.githubusercontent.com/129340907/228933574-15ec3384-502d-4d11-8dbe-a5e20b5f255c.gif)
+
 ![Seleccionar-una-Opción-2023-03-30-15-35-24](https://user-images.githubusercontent.com/129340907/228932573-bfeca177-ed0b-4e43-8afb-cd980151bb3e.gif)
 
 
+## :accessibility: Prueba de errores
 
+- El programa cuenta con un aceptacion de los errores en caso de que el usuario ingrese un valor negativo de moneda, como asi tambien si no ingresa ningun tipo de valor. 
+- En caso de tocar finalizar programa, se visualiza el cartel que muestra la finalizacion del programa
 
-## Autores
+## 🙋‍♂️: Autores
 
 [<img src="https://avatars.githubusercontent.com/u/129340907?s=400&u=3015e4d7eaef63d56d6d4944d998947b7a3b2404&v=4" width=115><br><sub>Villarroel Juan</sub>](https://github.com/VillarroelJuan)  
  
