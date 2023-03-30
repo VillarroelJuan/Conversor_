@@ -26,6 +26,18 @@ Se consta que el proyecto fue realizado con el lector Eclipse.
 
 ![image](https://user-images.githubusercontent.com/129340907/228921636-9bb2bace-8e54-4ee0-a05d-c3e8f071c76c.png)
 
+<h4> Prueba del programa </h4>
+
+![Menu-2023-03-30-15-30-34](https://user-images.githubusercontent.com/129340907/228931542-393a4ddc-0f43-4736-b9e6-b649e88f465f.gif)
+
+![input-2023-03-30-15-33-45](https://user-images.githubusercontent.com/129340907/228931872-781de55f-a650-4f10-934c-8a4eb4b9f4ac.gif)
+
+![Menu-2023-03-30-15-34-54](https://user-images.githubusercontent.com/129340907/228932165-4a4a8b12-d9eb-40e1-971e-adbe15faa71c.gif)
+
+![Seleccionar-una-Opción-2023-03-30-15-35-24](https://user-images.githubusercontent.com/129340907/228932573-bfeca177-ed0b-4e43-8afb-cd980151bb3e.gif)
+
+
+
 
 ## Autores
 
