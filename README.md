@@ -3,21 +3,15 @@
   <p align="left">
    <img src="https://img.shields.io/badge/STATUS-PROYECTO%20FINALIZADO-green">
    </p>
-
-<h2> Pre-requisitos 📋 </h2>
-
-Se requiere la previa instalacion de algun lector de Java
-
-Se consta que el proyecto fue realizado con el lector Eclipse.
-
+   
 
 ## :hammer:Funcionalidades del proyecto
 
-- `Funcionalidad 1`: El proyecto funciona principalmente para poder convertir un monto de la Moneda Argentina, a la moneda de otras 5 economias (Dolar, Euro, Libra, Yen y Won Coreano)
+- `Funcionalidad 1`: El proyecto funciona principalmente para poder convertir un monto a ingresar de la Moneda Argentina, a la moneda de otras 5 economias principales del mundo (Dolar, Euro, Libra, Yen y Won Coreano).
 
-- `Funcionalidad 2`: Tambien se puede realizar una conversion a la inversa, osea de las monedas de los demas paises incluidos a la Moneda Argentina 
+- `Funcionalidad 2`: Tambien se puede realizar una conversion a la inversa, osea de las monedas de los demas paises incluidos en la lista a la Moneda Argentina. 
 
-- `Funcionalidad 3`: El proyecto tambien incluye la adicion de conversion de temperaturas! Aborda gados Celsius, Farenheit y Kelvin.
+- `Funcionalidad 3`: Se incluye la adicion de conversion de temperaturas! Aborda desde grados Celsius, Farenheit y Kelvin.
 
 
 ## 👨‍💻: Tecnologias Utilizadas 
