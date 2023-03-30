@@ -14,7 +14,7 @@
 - `Funcionalidad 3`: Se incluye la adicion de conversion de temperaturas! Aborda desde grados Celsius, Farenheit y Kelvin.
 
 
-## 👨‍💻: Tecnologias Utilizadas 
+## 👨‍💻: Tecnologias utilizadas 
 
 ![image](https://user-images.githubusercontent.com/129340907/228921636-9bb2bace-8e54-4ee0-a05d-c3e8f071c76c.png)
 
