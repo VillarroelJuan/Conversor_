@@ -5,9 +5,6 @@
   <p align="left">
    <img src="https://img.shields.io/badge/STATUS-PROYECTO%20FINALIZADO-green">
    </p>
-   
-   
-![GitHub Org's stars](https://img.shields.io/github/stars/VillarroelJuan?style=social)
 
 <h2> Pre-requisitos 📋 </h2>
 
